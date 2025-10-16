@@ -8,8 +8,8 @@
     domain_name: "dso86s.xyz"
     subnet_id: subnet-02a9e2ee3cabd4c49
     instances: 
-    - mongodb
-    - redis
+    # - mongodb
+    # - redis
     # - mysql
     # - rabbitmq
     # - catalogue
