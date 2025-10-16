@@ -1,2 +1,3 @@
 MONGODB_HOST: mongodb.dso86s.xyz
 REDIS_HOST: redis.dso86s.xyz
+CATALOGUE_HOST: catalogue.dso86s.xyz
